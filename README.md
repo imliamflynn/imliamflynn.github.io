@@ -1,3 +1,3 @@
 # GitHub Hosted Website Test
 
-Using this to host a basic website.
+Using GitHub to host a basic website prototype.
