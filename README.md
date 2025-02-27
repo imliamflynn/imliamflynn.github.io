@@ -1,3 +1,3 @@
 # Testing Githubs Free Hosting
 
-## Using Template Code
+Using Template Code
